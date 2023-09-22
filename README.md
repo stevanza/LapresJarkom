@@ -15,3 +15,8 @@ seperti pada gambar berikut:
    
 ![soal1](https://github.com/stevanza/LapresJarkom/blob/main/WhatsApp%20Image%202023-09-22%20at%2009.26.49.jpeg)
 
+![soal](https://github.com/stevanza/LapresJarkom/blob/main/WhatsApp%20Image%202023-09-22%20at%2009.27.00.jpeg)
+
+8. nc 10.21.78.111 7171
+   Author: Banabil
+Berikan kueri filter sehingga wireshark hanya mengambil semua protokol paket yang menuju port 80! (Jika terdapat lebih dari 1 port, maka urutkan sesuai dengan abjad)!
