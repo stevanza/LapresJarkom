@@ -13,3 +13,5 @@ seperti pada gambar berikut:
 7. nc 10.21.78.111 6565
    Berapa jumlah packet yang menuju IP 184.87.193.88?
    
+![soal1](https://github.com/stevanza/LapresJarkom/blob/main/WhatsApp%20Image%202023-09-22%20at%2009.26.49.jpeg)
+
