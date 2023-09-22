@@ -19,4 +19,8 @@ seperti pada gambar berikut:
 
 8. nc 10.21.78.111 7171
 Berikan kueri filter sehingga wireshark hanya mengambil semua protokol paket yang menuju port 80! (Jika terdapat lebih dari 1 port, maka urutkan sesuai dengan abjad)!
+![soal](https://github.com/stevanza/LapresJarkom/blob/main/WhatsApp%20Image%202023-09-22%20at%2009.29.33.jpeg)
+
+9.nc 10.21.78.111 7272
+Berikan kueri filter sehingga wireshark hanya mengambil paket yang berasal dari alamat 10.51.40.1 tetapi tidak menuju ke alamat 10.39.55.34!
 
