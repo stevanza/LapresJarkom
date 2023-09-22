@@ -8,3 +8,4 @@ seperti pada gambar berikut:
 
 ![soal1](https://github.com/stevanza/LapresJarkom/blob/main/WhatsApp%20Image%202023-09-22%20at%2009.24.21.jpeg)
 
+![soal1](https://github.com/stevanza/LapresJarkom/blob/main/WhatsApp%20Image%202023-09-22%20at%2009.22.34.jpeg)
