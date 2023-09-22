@@ -27,5 +27,7 @@ Berikan kueri filter sehingga wireshark hanya mengambil paket yang berasal dari 
 
 10. nc 10.21.78.111 7373
     Sebutkan kredensial yang benar ketika user mencoba login menggunakan Telnet!
+    ![soal1](https://github.com/stevanza/LapresJarkom/blob/main/WhatsApp%20Image%202023-09-22%20at%2009.44.39.jpeg)
+    
     
 
