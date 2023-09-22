@@ -23,4 +23,9 @@ Berikan kueri filter sehingga wireshark hanya mengambil semua protokol paket yan
 
 9.nc 10.21.78.111 7272
 Berikan kueri filter sehingga wireshark hanya mengambil paket yang berasal dari alamat 10.51.40.1 tetapi tidak menuju ke alamat 10.39.55.34!
+![soal](https://github.com/stevanza/LapresJarkom/blob/main/WhatsApp%20Image%202023-09-22%20at%2009.38.08.jpeg)
+
+10. nc 10.21.78.111 7373
+    Sebutkan kredensial yang benar ketika user mencoba login menggunakan Telnet!
+    
 
