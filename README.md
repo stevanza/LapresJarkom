@@ -7,3 +7,4 @@ dari hint yang terdapat bisa ditarik solusi ➔ 104.18.14.101 → 0-18 → 10 4 
 seperti pada gambar berikut:
 
 ![soal1](https://github.com/stevanza/LapresJarkom/blob/main/WhatsApp%20Image%202023-09-22%20at%2009.24.21.jpeg)
+
